@@ -1,2 +1,18 @@
 # godisciple
-Mobile App to Read/Share/Care/Pray the Bible, mainly a tool with gamification as an option. It's christian and global (10 languages), not issued from a specific church movement.
+Goals:
+Real life changes (Read/Pray/Care/Share)
+"Love the Global Kingdom" (not only western countries), for team too
+Free to play (donations)
+Mobile first
+
+Roadmap for April 2018:
+10 languages
+Android only
+Offline only
+Local Notifications
+Random Challenges + User Added
+Own user stats
+Gamification as an option
+User Feedback everywhere
+Open Source
+Inspired by a Validated solution (2.5 million users)
