@@ -1,4 +1,7 @@
 # godisciple
+
+Open aia using AppInventor2 free clone AppyBuilder: http://gold.appybuilder.com
+
 Goals:
 * Real life changes (Read/Pray/Care/Share)
 * "Love the Global Kingdom" (not only western countries), for team too
